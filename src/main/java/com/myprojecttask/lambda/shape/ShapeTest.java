@@ -15,6 +15,5 @@ public class ShapeTest {
         Drawable4 drawable4 = (shape, area) -> "Drawing a"+shape+" and it's area is "+area;
         drawable4.draw("circle",100);
 
-
     }
 }
